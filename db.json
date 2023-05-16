@@ -1,0 +1,96 @@
+{
+  "recipe": [
+    {
+      "title": "Italian Pizza",
+      "author": "Robert De Stefano",
+      "origin": "https://flagcdn.com/w320/it.png",
+      "description": "Very delicious food. Easy to bake.",
+      "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1635&q=80",
+      "ingredientsResult": {
+        "flour": "200gm",
+        "cheese": "20gm",
+        "bacon": "10gm"
+      },
+      "instruction": "First make pizza by hand. Then bake it in the oven for 6 to 7 minutes.",
+      "id": 1
+    },
+    {
+      "title": "Pasta",
+      "author": "Julian Cesar",
+      "origin": "https://flagcdn.com/w320/us.png",
+      "description": "Very delicious food. Well eaten all over the world specially in USA and Europe.",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+      "ingredientsResult": {
+        "flour": "300gm",
+        "small tomatoes": "2",
+        "permasean cheese": "20gm",
+        "salt": "5gm"
+      },
+      "instruction": "hake, add about 180 ml of boiling water. Mix well and let it brew for 4-5 min. In the microwave: 1) Shake and remove the upper film 2) Add cold water up to the line and mix 3) Heat in the microwave at 700 W for 3.5 minutes 4) Mix well and let it brew for a minute.",
+      "id": 2
+    },
+    {
+      "title": "Chinese Style Noodels",
+      "author": "Xheng Lii",
+      "origin": "https://flagcdn.com/w320/tw.png",
+      "description": "Very nice and easy to cook. Popular mostly in Eastern Asia.",
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1592&q=80",
+      "ingredientsResult": {
+        "rice noodles": "200gm",
+        "water": "200ml",
+        "ginzer": "10gm",
+        "duckmeat": "50gm"
+      },
+      "instruction": "Boil a pot of water, then turn off the heat.\nAdd rice noodles to the pot, or pour the boiling hot water over the noodles in a wide bowl, covering them completely.\nSwish the noodles around briefly to separate.\nSoak the noodles for 6 to 10 minutes, until tender but still chewy. Drain the noodles.",
+      "id": 3
+    },
+    {
+      "title": "Greek Salad",
+      "author": "Petros Mantalos",
+      "origin": "https://flagcdn.com/w320/gr.png",
+      "description": "Very healthy and delicious. Originated mainly in greece.",
+      "image": "https://images.unsplash.com/photo-1599021419847-d8a7a6aba5b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZWslMjBzYWxhZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "ingredientsResult": {
+        "salad": "88gm",
+        "cheese": "50gm",
+        "small tomato": "1 piece",
+        "capcicum": "1 piece"
+      },
+      "instruction": "If you want to vary this salad recipe, try using use a mix of red, green, and yellow bell peppers, adding some fresh oregano or parsley, or stirring in cooked or roasted chickpeas to make it a full meal. To make it vegan, skip the cheese and add 3/4 cup cooked chickpeas and 1 tablespoon capers in its place.",
+      "id": 4
+    },
+    {
+      "title": "Chicken Biryani",
+      "author": "Monoj Kumar",
+      "origin": "https://flagcdn.com/w320/in.png",
+      "description": "Popular in Southeast Asia. Very delicious and spicy.",
+      "image": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpY2tlbiUyMGJpcnlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "ingredientsResult": {
+        "rice": "200gm",
+        "water": "400ml",
+        "oil": "20ml",
+        "chicken breast": "1kg",
+        "spice mix": "100gm"
+      },
+      "instruction": "Heat the oil in a large saucepan over a low heat. Add the onion, cover and cook for 10 minutes until softened.\nCut the chicken into bite-size pieces, tip into a bowl, and add the lemon juice, garam masala, chilli powder and salt. Stir well to coat.\nRinse the rice several times in cold water, until the water runs clear. Add the garlic and ginger to the onion and cook for 2 minutes, then add the chicken pieces and cook for a further 2 minutes, stirring constantly.\nAdd the rice and hot stock to the pan, stir well then bring to the boil. Cover with a tight-fitting lid, reduce the heat slightly and cook for 5 minutes. Turn off the heat and leave the pan for 10 minutes to allow the rice to finish cooking in the steam. Do not remove the lid. Stir through the coriander and serve immediately.",
+      "id": 5
+    },
+    {
+      "title": "Ratatouille",
+      "author": "Olivier Giroud",
+      "origin": "https://flagcdn.com/w320/fr.png",
+      "description": "Delicious food originated mainly in French.",
+      "image": "https://images.unsplash.com/photo-1659192963263-c4e3b53586db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmF0YXRvdWlsbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "ingredientsResult": {
+        "red onions": "2 piece",
+        "aubergines": "2 piece",
+        "cloves of garlic": "4 piece",
+        "riped tomatoes": "6 piece",
+        "pepper": "3 piece",
+        "olive oil": "1 tablespoon"
+      },
+      "instruction": "Prep your ingredients before you start – peel and cut the onions into wedges, then peel and finely slice the garlic. Trim the aubergines and courgettes, deseed the peppers and chop into 2.5cm chunks. Roughly chop the tomatoes. Pick the basil leaves and set aside, then finely slice the stalks.\nHeat 2 tablespoons of oil in a large casserole pan or saucepan over a medium heat, add the chopped aubergines, courgettes and peppers (you may need to do this in batches) and fry for around 5 minutes, or until golden and softened, but not cooked through. Spoon the cooked veg into a large bowl.\nTo the pan, add the onion, garlic, basil stalks and thyme leaves with another drizzle of oil, if needed. Fry for 10 to 15 minutes, or until softened and golden.\nReturn the cooked veg to the pan and stir in the fresh and tinned tomatoes, the balsamic and a good pinch of sea salt and black pepper.\nMix well, breaking up the tomatoes with the back of a spoon. Cover the pan and simmer over a low heat for 30 to 35 minutes, or until reduced, sticky and sweet.\nTear in the basil leaves, finely grate in the lemon zest and adjust the seasoning, if needed. Serve with a hunk of bread or steamed rice.",
+      "id": 6
+    }
+  ]
+}
