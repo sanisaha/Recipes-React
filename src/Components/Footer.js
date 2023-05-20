@@ -9,9 +9,9 @@ const Footer = () => {
     <p>Copyright © 2023 - All right reserved</p>
   </div> 
   <div className="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-    <a href='https://github.com/' target={'_blank'} rel='noreferrer'><FaGithub/></a>
-    <a href='https://facebook.com/' target={'_blank'} rel='noreferrer'><FaFacebook/></a>
-    <a href='https://linkedin.com/' target={'_blank'} rel='noreferrer'><FaLinkedin/></a>
+    <a href='https://github.com/' target={'_blank'} rel='noreferrer' aria-label='gitHub'><FaGithub/></a>
+    <a href='https://facebook.com/' target={'_blank'} rel='noreferrer' aria-label='facebook'><FaFacebook/></a>
+    <a href='https://linkedin.com/' target={'_blank'} rel='noreferrer' aria-label='linkedIn'><FaLinkedin/></a>
     
   </div>
 </footer>

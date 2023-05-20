@@ -1,13 +1,12 @@
 import React from 'react';
 import { FaHive, FaInfo, FaSearch, FaUpload } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import image from "../Assets/images/food.jpg"
 
 const Home = () => {
   
     return (
         <div>
-          <div className="hero min-h-screen" style={{ backgroundImage: `url(${image})` }}>
+          <div className="hero min-h-screen" style={{ backgroundImage: `url(https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60)` }}>
   <div className="hero-overlay bg-opacity-60"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">
