@@ -13,10 +13,20 @@ const AddRecipe = () => {
     const ingredientsResult = {};
     const notify = () => toast('recipe is added now!');
 
+    function compare( a, b ) {
+      if ( a.name.common < b.name.common ){
+        return -1;
+      }
+      if ( a.name.common > b.name.common  ){
+        return 1;
+      }
+      return 0;
+    }
+    
     useEffect(()=>{
         fetch('https://restcountries.com/v3.1/all')
         .then(res => res.json())
-        .then(data => setCountries(data))
+        .then(data => setCountries(data.sort(compare)))
     }, []); 
 
     const handleClick = (event) => { 
@@ -161,7 +171,7 @@ const AddRecipe = () => {
       <div className="flex items-center justify-between">
         <button
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-          type="summit">
+          type="submit">
           Add Recipe
         </button>
         <button

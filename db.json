@@ -91,6 +91,22 @@
       },
       "instruction": "Prep your ingredients before you start – peel and cut the onions into wedges, then peel and finely slice the garlic. Trim the aubergines and courgettes, deseed the peppers and chop into 2.5cm chunks. Roughly chop the tomatoes. Pick the basil leaves and set aside, then finely slice the stalks.\nHeat 2 tablespoons of oil in a large casserole pan or saucepan over a medium heat, add the chopped aubergines, courgettes and peppers (you may need to do this in batches) and fry for around 5 minutes, or until golden and softened, but not cooked through. Spoon the cooked veg into a large bowl.\nTo the pan, add the onion, garlic, basil stalks and thyme leaves with another drizzle of oil, if needed. Fry for 10 to 15 minutes, or until softened and golden.\nReturn the cooked veg to the pan and stir in the fresh and tinned tomatoes, the balsamic and a good pinch of sea salt and black pepper.\nMix well, breaking up the tomatoes with the back of a spoon. Cover the pan and simmer over a low heat for 30 to 35 minutes, or until reduced, sticky and sweet.\nTear in the basil leaves, finely grate in the lemon zest and adjust the seasoning, if needed. Serve with a hunk of bread or steamed rice.",
       "id": 6
+    },
+    {
+      "title": "Mushroom Soup",
+      "author": "Harry Potter",
+      "origin": "https://flagcdn.com/w320/gb.png",
+      "description": "Very tasty and healthy soup.",
+      "image": "",
+      "ingredientsResult": {
+        "water": "500ml",
+        "Mushroom": "10pc",
+        "Cauliflower": "200gm",
+        "salt": "5gm",
+        "garlic": "20gm"
+      },
+      "instruction": "Add the mushrooms and cook over a high heat for another 3 mins until softened. Sprinkle over the flour and stir to combine. Pour in the chicken stock, bring the mixture to the boil, then add the bay leaf and simmer for another 10 mins. Remove and discard the bay leaf, then remove the mushroom mixture from the heat and blitz using a hand blender until smooth. Gently reheat the soup and stir through the cream.",
+      "id": 7
     }
   ]
 }

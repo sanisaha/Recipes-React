@@ -6,10 +6,10 @@ import Header from '../Components/Header';
 
 const Main = () => {
     return (
-        <div>
+        <div className='mb-28 lg:mb-12'>
             <Header></Header>
             <Outlet></Outlet>
-            <Footer></Footer>
+            <div className='fixed bottom-0 w-full'><Footer></Footer></div>
         </div>
     );
 };

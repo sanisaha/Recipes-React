@@ -14,11 +14,6 @@ const SearchRecipe = () => {
         return item.title.toLowerCase().includes(searchInput)
       })
 
-    
-      console.log(searchInput);
-
-    
-
     return (
         <div>
             <div className="form-control w-full max-w-xs mx-auto">
@@ -30,7 +25,7 @@ const SearchRecipe = () => {
 </div>
             <div className='p-5'>
                 <h1 className='p-4'>Our Recipes</h1>
-                <div className='grid grid-cols-1 gap-2 md:grid-cols-3'>
+                <div className='grid grid-cols-2 gap-5 md:grid-cols-4'>
                     {searchFilter.map(recipe => (
                         <RecipeCard
                         key={recipe.id}
