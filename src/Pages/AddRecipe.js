@@ -7,12 +7,12 @@ const AddRecipe = () => {
 
     const [countries, setCountries] = useState([]);
     const [counter, setCounter] = useState(0);
-    // const [ingredients, setIngredients] = useState([{quantity:'',ingredient:''}]);
     const ingredients = [];
     const quantities = [];
     const ingredientsResult = {};
     const notify = () => toast('recipe is added now!');
 
+    // function for sorting data by ascending name
     function compare( a, b ) {
       if ( a.name.common < b.name.common ){
         return -1;
@@ -42,7 +42,6 @@ const AddRecipe = () => {
         const origin= form.origin.value;    
         const description= form.description.value;    
         const image = form.image.value;    
-        // const ingredients = [...{quantity : form.quantity.value, ingredient:form.ingredient.value}]
         const quantity = (form.quantity);
         const ingredient = (form.ingredient);
 

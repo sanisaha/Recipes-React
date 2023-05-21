@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaBug } from 'react-icons/fa';
-import { useRouteError } from 'react-router-dom';
+import { Link, useRouteError } from 'react-router-dom';
 
 const Error = () => {
     let error = useRouteError();
@@ -10,7 +10,7 @@ const Error = () => {
             <h1 className='p-5'><FaBug className='text-end px-2' />404</h1>
             <h1 className='mb-5'>Page Not Found!</h1>
             <p>We are sorry, the page you requested could not be found. Please, go back to the homepage or contact support.</p>
-            <button className='btn btn-info m-5'>Read More</button>
+            <Link to='/' className='btn btn-info m-5'>Home</Link>
         </div>
     );
 };
